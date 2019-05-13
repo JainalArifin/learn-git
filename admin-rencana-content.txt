@@ -1,6 +1,9 @@
 -report
+  -summary
+  -report by (author, titly, category, customer )
 -ebook management
   -add ebook
   -edit ebook
   -delete ebook
 -invoicing
+-dokumentasi
