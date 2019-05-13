@@ -1,3 +1,6 @@
 -report
 -ebook management
+  -add ebook
+  -edit ebook
+  -delete ebook
 -invoicing
