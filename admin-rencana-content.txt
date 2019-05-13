@@ -7,3 +7,4 @@
   -delete ebook
 -invoicing
 -dokumentasi
+-tutorial
