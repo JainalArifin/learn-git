@@ -1,4 +1,6 @@
 -report
+  -sammery
+  -report
 -ebook management
   -add ebook
   -edit ebook
